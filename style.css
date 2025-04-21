@@ -50,6 +50,13 @@ form, .content {
   border: none;
   border-radius: 5px;
 }
+
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
 .error {
   width: 92%; 
   margin: 0px auto; 
